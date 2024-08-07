@@ -1,2 +1,1 @@
 # About
-I like rainbows
