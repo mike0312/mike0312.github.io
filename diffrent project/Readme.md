@@ -1,2 +1,2 @@
-sytax ||| Description
----
+| Sytax | Description |
+| ----- | --------    |
