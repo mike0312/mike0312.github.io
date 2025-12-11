@@ -1,8 +1,8 @@
 remote_theme: pages-themes/architect@v0.2.0
 title: Michael Elizondo
-description: Technology Executive · Enterprise Cloud · DevOps · DevSecOps · Application Security 
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one. This is just a test
+description: Senior Systems Engineer · Enterprise Cloud · DevOps · DevSecOps · Senior IT Engineer
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one. This is just a test
 
 
 # TESTING Again new edit
