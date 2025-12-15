@@ -10,6 +10,7 @@ This cmdlet retrieves the permissions defined on the specified inventory objects
 
  ---
 |New-VIPermission|
+
 This cmdlet creates new permissions on the specified inventory objects for the provided users and groups in the role.
 
 Remove-VIPermission
